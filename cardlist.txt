@@ -473,3 +473,7 @@ C: Wrecking Ball
 C: Yixlid Jailer
 C: Yosei, the Morning Star
 C: Zombify
+U: Island
+U: Plains
+U: Mountain
+R: Swamp
