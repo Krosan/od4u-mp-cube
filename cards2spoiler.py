@@ -19,7 +19,10 @@ def get_card_color(card):
             return card.color
     except AttributeError:
         # Card has no color: Artifact
-        return 'Art'
+        if 'Land' in str(card.type):
+            return 'Lnd'
+        else:
+            return 'Art'
 
 def get_card(oracle, cardname):
     """Given a cardname, return the oracle data on it"""
@@ -56,7 +59,7 @@ def card_to_mws(oracle, cardname, rarity=None):
     if card is None:
         return
     _name = card.name
-    _color = get_card_color(_name)
+    _color = get_card_color(card)
     _cost = unicode(card.manacost)
     _type = card.type
     _pt = get_card_pt(card)
