@@ -1,8 +1,8 @@
 C: Abyssal Gatekeeper
 C: Acidic Slime
 C: Act of Treason
-C: Adakar Valkyrie
-C: Adakar Wastes
+C: Adarkar Valkyrie
+C: Adarkar Wastes
 C: Adventuring Gear
 C: Aether Spellbomb
 C: Agent of Masks
@@ -11,16 +11,15 @@ C: Akoum Refuge
 C: Akroma, Angel of Fury
 C: Akroma, Angel of Wrath
 C: Akroma's Memorial
-C: Akroma's Vengence
+C: Akroma's Vengeance
 C: Ana Battlemage
 C: Ancient Grudge
 C: Ant Queen
 C: Archmage Ascension
 C: Arid Mesa
 C: Armageddon
-C: Artful Looter
 C: Ashling the Pilgrim
-C: Assault//Battery
+C: Assault // Battery
 C: Aura of Silence
 C: Avatar of Woe
 C: Azorius Chancery
@@ -36,7 +35,6 @@ C: Beseech the Queen
 C: Betrayal of Flesh
 C: Birds of Paradise
 C: Black Knight
-C: Blast from the Past
 C: Blastoderm
 C: Blinkmoth Nexus
 C: Bloodchief Ascension
@@ -47,9 +45,8 @@ C: Bloodstained Mire
 C: Body Double
 C: Bogardan Hellkite
 C: Boggart Ram-Gang
-C: Boom//Bust
-C: Booster Tutor
-C: Boros Fury Shield
+C: Boom // Bust
+C: Boros Fury-Shield
 C: Boros Garrison
 C: Boros Signet
 C: Bosh, Iron Golem
@@ -57,7 +54,7 @@ C: Braid of Fire
 C: Breath of Life
 C: Breeding Pool
 C: Briarhorn
-C: Burning Tree Shaman
+C: Burning-Tree Shaman
 C: Burst Lightning
 C: Cage of Hands
 C: Call of the Herd
@@ -83,7 +80,7 @@ C: Confusion in the Ranks
 C: Conqueror's Pledge
 C: Copy Enchantment
 C: Court Hussar
-C: Crime//Punishment
+C: Crime // Punishment
 C: Crown of Convergence
 C: Crucible of Worlds
 C: Crystal Shard
@@ -92,8 +89,8 @@ C: Cytoplast Root-Kin
 C: Dakmor Salvage
 C: Damnation
 C: Dark Depths
-C: Day of Judgement
-C: Dead//Gone
+C: Day of Judgment
+C: Dead // Gone
 C: Deadwood Treefolk
 C: Deathgreeter
 C: Debtors' Knell
@@ -207,7 +204,7 @@ C: Hedge Troll
 C: Hellkite Charger
 C: Hibernation's End
 C: Hinder
-C: Hit//Run
+C: Hit // Run
 C: Hive Mind
 C: Horizon Canopy
 C: Howling Mine
@@ -223,7 +220,7 @@ C: Izzet Boilerworks
 C: Izzet Chronarch
 C: Izzet Signet
 C: Jinxed Choker
-C: Jokulhops
+C: Jokulhaups
 C: Journey to Nowhere
 C: Juniper Order Ranger
 C: Jwar Isle Refuge
@@ -231,8 +228,8 @@ C: Kagemaro, First to Suffer
 C: Kazandu Refuge
 C: Keldon Marauders
 C: Khalni Heart Expedition
-C: Kieldoran Javelineer
-C: Kira, Great Glass Spinner
+C: Kjeldoran Javelineer
+C: Kira, Great Glass-Spinner
 C: Kitchen Finks
 C: Knollspine Invocation
 C: Kodama's Reach
@@ -287,7 +284,7 @@ C: Nihilith
 C: No-Dachi
 C: Obelisk of Alara
 C: Oblivion Ring
-C: Odds//Ends
+C: Odds // Ends
 C: Ohran Viper
 C: Oracle of Mul Daya
 C: Oran-Rief Recluse
@@ -320,7 +317,7 @@ C: Prismatic Lens
 C: Profane Command
 C: Proper Burial
 C: Protean Hulk
-C: Pure//Simple
+C: Pure // Simple
 C: Put Away
 C: Putrefy
 C: Pyrite Spellbomb
@@ -334,7 +331,6 @@ C: Rakdos Signet
 C: Rampaging Baloths
 C: Rampant Growth
 C: Rancor
-C: Rare-B-Gone
 C: Razia's Purification
 C: Recollect
 C: Recurring Nightmare
@@ -345,7 +341,7 @@ C: Relic of Progenitus
 C: Repulse
 C: Reveillark
 C: Reya Dawnbringer
-C: Rise//Fall
+C: Rise // Fall
 C: Rise from the Grave
 C: Rite of Replication
 C: River Boa
@@ -402,12 +398,11 @@ C: Sundering Vitae
 C: Sunforger
 C: Sunken Ruins
 C: Sunpetal Grove
-C: Supply//Demand
+C: Supply // Demand
 C: Swans of Bryn Argoll
-C: Sway the Stars
+C: Sway of the Stars
 C: Sword of the Paruns
 C: Swords to Plowshares
-C: Symbol Status
 C: Syphon Mind
 C: Take Possession
 C: Taurean Mauler
@@ -429,7 +424,7 @@ C: Tolsimir Wolfblood
 C: Tombstalker
 C: Torchling
 C: Treetop Village
-C: Trial//Error
+C: Trial // Error
 C: Triskelavus
 C: Troll Ascetic
 C: Trusty Machete
@@ -437,10 +432,10 @@ C: Trygon Predator
 C: Twilight Drover
 C: Twilight Mire
 C: Twincast
-C: Twlight Shepard
+C: Twilight Shepard
 C: Umbral Mantle
 C: Upheaval
-C: Urborg Syphon Mage
+C: Urborg Syphon-Mage
 C: Vampire Hexmage
 C: Vampire Nighthawk
 C: Venser's Diffusion
@@ -476,5 +471,5 @@ C: World Queller
 C: Wrath of God
 C: Wrecking Ball
 C: Yixlid Jailer
-C: Yosei the Morning Star
+C: Yosei, the Morning Star
 C: Zombify
