@@ -245,7 +245,6 @@ C: Lightning Bolt
 C: Lightning Helix
 C: Liliana Vess
 C: Loxodon Warhammer
-C: Luminarch Ascension
 C: Lurebound Scarecrow
 C: Lyzolda, the Blood Witch
 C: Magma Phoenix
