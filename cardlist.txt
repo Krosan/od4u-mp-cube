@@ -15,7 +15,6 @@ C: Akroma's Vengeance
 C: Ana Battlemage
 C: Ancient Grudge
 C: Ant Queen
-C: Archmage Ascension
 C: Arid Mesa
 C: Armageddon
 C: Ashling the Pilgrim
@@ -37,7 +36,6 @@ C: Birds of Paradise
 C: Black Knight
 C: Blastoderm
 C: Blinkmoth Nexus
-C: Bloodchief Ascension
 C: Blood Crypt
 C: Bloodghast
 C: Blood Knight
