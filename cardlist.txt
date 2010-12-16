@@ -1,506 +1,480 @@
-C: Elite Vanguard
-C: Frontline Strategist
-C: Kieldoran Javelineer
-C: Soul Warden
-C: Kor Skyfisher
-C: Samurai of the Pale Curtain
-C: White Knight
-C: Ballynock Cohort
-C: Kor Sanctifiers
-C: Mangara of Corondor
-C: Outrider en-Kor
-C: Paladin en-Vec
-C: Stonecloaker
-C: Twilight Drover
-C: Magus of the Tabernacle
-C: Magus of the Disk
-C: Serra Angel
-C: World Queller
-C: Glory
-C: Reveillark
-C: Adakar Valkyrie
-C: Twlight Shepard
-C: Yosei the Morning Star
-C: Akroma, Angel of Wrath
-C: Reya Dawnbringer
-C: Eternal Dragon
-C: Decree of Justice
-C: Martial Coup
-C: Swords to Plowshares
-C: Condemn
-C: Mana Tithe
-C: Flickerform
-C: Journey to Nowhere
-C: Otherworldly Journey
-C: Luminarch Ascension
-C: Disenchant
-C: Momentary Blink
-C: Cage of Hands
-C: Aura of Silence
-C: Glorious Anthem
-C: Devouring Light
-C: Boros Fury Shield
-C: Orim's Thunder
-C: Oblivion Ring
-C: Faith's Fetters
-C: Concerted Effort
-C: Leyline of the Meek
-C: Proper Burial
-C: Day of Judgement
-C: Breath of Life
-C: Cataclysm
-C: Wrath of God
-C: Armageddon
-C: Conqueror's Pledge
-C: Rout
-C: Akroma's Vengence
-C: Catastrophe
-C: Magus of the Bazaar
-C: Waterfront Bouncer
-C: Wall of Frost
-C: Artful Looter
-C: Court Hussar
-C: Serendib Efreet
-C: Kira, Great Glass Spinner
-C: Vexing Sphinx
-C: Thieving Magpie
-C: Sakashima the Impostor
-C: Meloku the Clouded Mirror
-C: Body Double
-C: Sphinx of Jwar Isle
-C: Inkwell Leviathan
-C: Power Sink
-C: Pact of Negation
-C: Pongify
-C: Ponder
-C: Memory Lapse
-C: Mana Leak
-C: Telling Time
-C: Into the Roil
-C: Twincast
-C: Phantom Wings
-C: Repulse
-C: Venser's Diffusion
-C: Wipe Away
-C: Cancel
-C: Faerie Trickery
-C: Hinder
-C: Archmage Ascension
-C: Copy Enchantment
-C: Fabricate
-C: Rushing River
-C: Ghastly Discovery
-C: Discombobulate
-C: Gifts Ungiven
-C: Parallax Tide
-C: Rite of Replication
-C: Put Away
-C: Sleep
-C: Deep Analysis
-C: Tidings
-C: Followed Footsteps
-C: Time Warp
-C: Evacuation
-C: Hive Mind
-C: Govern the Guildless
-C: Time Stop
-C: Confiscate
-C: Upheaval
-C: Cultural Exchange
-C: Take Possession
-C: Eye of the Storm
-C: Sway the Stars
-C: Deathgreeter
-C: Plagued Rusalka
-C: Vampire Hexmage
-C: Yixlid Jailer
-C: Black Knight
-C: Withered Wretch
 C: Abyssal Gatekeeper
-C: Golgari Thug
-C: Bloodghast
-C: Hypnotic Specter
-C: Doomed Necromancer
-C: Faerie Macabre
-C: Vampire Nighthawk
-C: Urborg Syphon Mage
-C: Mirri the Cursed
-C: Fleshwrither
-C: Nekrataal
-C: Kagemaro, First to Suffer
-C: Sengir Nosferatu
-C: Silent Specter
-C: Skeletal Vampire
-C: Nihilith
-C: Nefashu
-C: Dread
-C: Tombstalker
-C: Avatar of Woe
-C: Deathgreeter
-C: Plagued Rusalka
-C: Vampire Hexmage
-C: Yixlid Jailer
-C: Black Knight
-C: Withered Wretch
-C: Abyssal Gatekeeper
-C: Golgari Thug
-C: Bloodghast
-C: Hypnotic Specter
-C: Doomed Necromancer
-C: Faerie Macabre
-C: Vampire Nighthawk
-C: Urborg Syphon Mage
-C: Mirri the Cursed
-C: Fleshwrither
-C: Nekrataal
-C: Kagemaro, First to Suffer
-C: Sengir Nosferatu
-C: Silent Specter
-C: Skeletal Vampire
-C: Nihilith
-C: Nefashu
-C: Dread
-C: Tombstalker
-C: Avatar of Woe
-C: Profane Command
-C: Bloodchief Ascension
-C: Innocent Blood
-C: Quest for the Gravelord
-C: Booster Tutor
-C: Demonic Tutor
-C: Smallpox
-C: Doom Blade
-C: Sudden Death
-C: Sudden Spoiling
-C: Phyrexian Arena
-C: Recurring Nightmare
-C: Damnation
-C: Diabolic Tutor
-C: Vigor Mortis
-C: Grave Pact
-C: Barter in Blood
-C: Dread Return
-C: Syphon Mind
-C: Zombify
-C: Moonlight Bargain
-C: Beacon of Unrest
-C: Liliana Vess
-C: Rise from the Grave
-C: Enslave
-C: Beseech the Queen
-C: Sorin Markov
-C: Betrayal of Flesh
-C: Plague Wind
-C: Decree of Pain
-C: Mogg Fanatic
-C: Goblin Guide
-C: Ashling the Pilgrim
-C: Blood Knight
-C: Tin Street Hooligan
-C: Keldon Marauders
-C: Plated Geopede
-C: Squee, Goblin Nabob
-C: Taurean Mauler
-C: Rockslide Elemental
-C: Lavaborn Muse
-C: Flametongue Kavu
-C: Kumano, Master Yamabushi
-C: Magma Phoenix
-C: Heartless Hidetsugu
-C: Torchling
-C: Gathan Raiders
-C: Rorix Bladewing
-C: Hellkite Charger
-C: Scourge of Kher Ridges
-C: Akroma, Angel of Fury
-C: Bogardan Hellkite
-C: Hateflayer
-C: Rolling Thunder
-C: Molten Disaster
-C: Demonfire
-C: Fireball
-C: Earthquake
-C: Burst Lightning
-C: Dead//Gone
-C: Lightning Bolt
-C: Quest for Ancient Flame
-C: Fury Charm
-C: Ancient Grudge
-C: Braid of Fire
-C: Electropotence
-C: Act of Treason
-C: Reiterate
-C: Blast from the Past
-C: Knollspine Invocation
-C: Char
-C: War's Toll
-C: Thoughts of Ruin
-C: Relentless Assault
-C: Furnace of Rath
-C: Word of Seizing
-C: Chandra Nalaar
-C: Confusion in the Ranks
-C: Boom//Bust
-C: Flame Javelin
-C: Jokulhops
-C: Wildfire
-C: Insurrection
-C: Form of the Dragon
-C: Thieves' Auction
-C: Birds of Paradise
-C: Scute Mob
-C: Wild Mongrel
-C: Silhana Ledgewalker
-C: River Boa
-C: Wall of Roots
-C: Troll Ascetic
-C: Ohran Viper
-C: Ana Battlemage
-C: Thornscape Battlemage
-C: Oran-Rief Recluse
-C: Hedge Troll
-C: Scion of the Wild
-C: Heartwood Storyteller
-C: Cytoplast Root-Kin
-C: Fungal Behemoth
-C: Blastoderm
-C: Forgotten Ancient
-C: Briarhorn
-C: Oracle of Mul Daya
-C: Golgari Grave-Troll
-C: Ant Queen
-C: Genesis
-C: Indrik Stomphowler
 C: Acidic Slime
-C: Verdeloth the Ancient
-C: Rampaging Baloths
-C: Deadwood Treefolk
-C: Verdant Force
-C: Protean Hulk
-C: Krosan Tusker
-C: Woodfall Primus
-C: Windstorm
-C: Vines of Vastwood
-C: Rancor
-C: Khalni Heart Expedition
-C: Channel
-C: Evolution Charm
-C: Rampant Growth
-C: Beastmaster Ascension
-C: Moldervine Cloak
-C: Harrow
-C: Sundering Vitae
-C: Recollect
-C: Kodama's Reach
-C: Elephant Guide
-C: Call of the Herd
-C: Garruk Wildspeaker
-C: Harmonize
-C: Explosive Vegetation
-C: Symbol Status
-C: Doubling Season
-C: Hibernation's End
-C: Overrun
-C: Rude Awakening
-C: Godhead of Awe
-C: Azorius Guildmage
-C: Grand Arbiter Augustin IV
-C: Swans of Bryn Argoll
-C: Wall of Denial
-C: Plumeveil
-C: Dralnu, Lich Lord
-C: Dimir Guildmage
-C: Glen Elendra Liege
-C: Moroii
-C: Dimir Doppelganger
-C: Inkfathom Infiltrator
-C: Lyzolda, the Blood Witch
-C: Din of the Fireherd
-C: Rakdos Guildmage
-C: Murderous Redcap
-C: Rare-B-Gone
-C: Wrecking Ball
-C: Rumbling Slum
-C: Giant Solifuge
-C: Burning Tree Shaman
-C: Firespout
-C: Boggart Ram-Gang
-C: Fires of Yavimaya
-C: Tolsimir Wolfblood
-C: Juniper Order Ranger
-C: Kitchen Finks
-C: Selesnya Guildmage
-C: Qasali Pridemage
-C: Glare of Subdual
-C: Agent of Masks
-C: Teysa, Orzhov Scion
-C: Necrotic Sliver
-C: Orzhov Pontiff
-C: Debtors' Knell
-C: Mortify
-C: Balefire Liege
-C: Ajani Goldmane
-C: Master Warcraft
-C: Glory of Warfare
-C: Razia's Purification
-C: Lightning Helix
-C: Djinn Illuminatus
-C: Spellbound Dragon
-C: Izzet Chronarch
-C: Gelectrode
-C: Call the Skybreaker
-C: Electrolyze
-C: Mystic Snake
-C: Simic Sky Swallower
-C: Trygon Predator
-C: Experiment Kraj
-C: Spitting Image
-C: Voidslime
-C: Vulturous Zombie
-C: Gleancrawler
-C: Sisters of Stone Death
-C: Grave-Shell Scarab
-C: Marrow Chomper
-C: Putrefy
-C: Intet, the Dreamer
-C: Oros, the Avenger
-C: Nicol Bolas, Planeswalker
-C: Crime//Punishment
-C: Odds//Ends
-C: Pure//Simple
-C: Trial//Error
-C: Hit//Run
-C: Supply//Demand
-C: Rise//Fall
-C: Assault//Battery
-C: Akroma's Memorial
-C: The Hive
-C: Coat of Arms
-C: Chimeric Staff
-C: Grinning Totem
-C: Gruul War Plow
-C: Eternity Vessel
-C: Crucible of Worlds
-C: Cloudstone Curio
-C: Skeleton Shard
-C: Crown of Convergence
-C: Howling Mine
-C: Obelisk of Alara
-C: Carnage Altar
-C: Mind Stone
-C: Jinxed Choker
-C: Crystal Shard
-C: Pithing Needle
-C: Eldrazi Monument
-C: Moratorium Stone
+C: Act of Treason
+C: Adakar Valkyrie
+C: Adakar Wastes
+C: Adventuring Gear
 C: Aether Spellbomb
-C: Necrogen Spellbomb
-C: Pyrite Spellbomb
-C: Gauntlet of Power
-C: Relic of Progenitus
-C: Serrated Arrows
+C: Agent of Masks
+C: Ajani Goldmane
+C: Akoum Refuge
+C: Akroma, Angel of Fury
+C: Akroma, Angel of Wrath
+C: Akroma's Memorial
+C: Akroma's Vengence
+C: Ana Battlemage
+C: Ancient Grudge
+C: Ant Queen
+C: Archmage Ascension
+C: Arid Mesa
+C: Armageddon
+C: Artful Looter
+C: Ashling the Pilgrim
+C: Assault//Battery
+C: Aura of Silence
+C: Avatar of Woe
+C: Azorius Chancery
+C: Azorius Guildmage
+C: Azorius Signet
+C: Balefire Liege
+C: Ballynock Cohort
+C: Barter in Blood
+C: Battlefield Forge
+C: Beacon of Unrest
+C: Beastmaster Ascension
+C: Beseech the Queen
+C: Betrayal of Flesh
+C: Birds of Paradise
+C: Black Knight
+C: Blast from the Past
+C: Blastoderm
+C: Blinkmoth Nexus
+C: Bloodchief Ascension
+C: Blood Crypt
+C: Bloodghast
+C: Blood Knight
+C: Bloodstained Mire
+C: Body Double
+C: Bogardan Hellkite
+C: Boggart Ram-Gang
+C: Boom//Bust
+C: Booster Tutor
+C: Boros Fury Shield
+C: Boros Garrison
+C: Boros Signet
 C: Bosh, Iron Golem
-C: Pentavus
-C: Triskelavus
-C: Lurebound Scarecrow
-C: Scuttlemutt
-C: Grim Poppet
-C: Coalition Relic
-C: Weatherseed Totem
-C: Doubling Cube
-C: Prismatic Lens
-C: Expedition Map
+C: Braid of Fire
+C: Breath of Life
+C: Breeding Pool
+C: Briarhorn
+C: Burning Tree Shaman
+C: Burst Lightning
+C: Cage of Hands
+C: Call of the Herd
+C: Call the Skybreaker
+C: Cancel
+C: Carnage Altar
+C: Cascade Bluffs
+C: Cataclysm
+C: Catastrophe
+C: Chandra Nalaar
+C: Channel
+C: Char
+C: Chimeric Staff
 C: Chromatic Star
 C: Chrome Mox
-C: Dimir Signet
-C: Boros Signet
-C: Selesnya Signet
-C: Golgari Signet
-C: Gruul Signet
-C: Izzet Signet
-C: Orzhov Signet
-C: Azorius Signet
-C: Simic Signet
-C: Rakdos Signet
-C: General's Kabuto
-C: Sword of the Paruns
-C: Loxodon Warhammer
-C: Kusari-Gama
-C: Sunforger
-C: Whispersilk Cloak
-C: No-Dachi
-C: Umbral Mantle
-C: Adventuring Gear
-C: Explorer's Scope
-C: Trusty Machete
-C: Blinkmoth Nexus
-C: Dryad Arbor
-C: Quicksand
-C: Dark Depths
-C: Vesuva
-C: Terramorphic Expanse
-C: Tolaria West
+C: Cloudstone Curio
+C: Coalition Relic
+C: Coat of Arms
+C: Concerted Effort
+C: Condemn
+C: Confiscate
+C: Confusion in the Ranks
+C: Conqueror's Pledge
+C: Copy Enchantment
+C: Court Hussar
+C: Crime//Punishment
+C: Crown of Convergence
+C: Crucible of Worlds
+C: Crystal Shard
+C: Cultural Exchange
+C: Cytoplast Root-Kin
 C: Dakmor Salvage
-C: Rix Maadi, Dungeon Palace
-C: Leechridden Swamp
-C: Treetop Village
-C: Ghost Quarter
-C: Gargoyle Castle
-C: Oran-Rief, the Vastwood
-C: Adakar Wastes
-C: Shivan Reef
-C: Battlefield Forge
-C: Sulfurous Springs
-C: Horizon Canopy
+C: Damnation
+C: Dark Depths
+C: Day of Judgement
+C: Dead//Gone
+C: Deadwood Treefolk
+C: Deathgreeter
+C: Debtors' Knell
+C: Decree of Justice
+C: Decree of Pain
+C: Deep Analysis
+C: Demonfire
+C: Demonic Tutor
+C: Devouring Light
+C: Diabolic Tutor
 C: Dimir Aqueduct
-C: Selesnya Sanctuary
+C: Dimir Doppelganger
+C: Dimir Guildmage
+C: Dimir Signet
+C: Din of the Fireherd
+C: Discombobulate
+C: Disenchant
+C: Djinn Illuminatus
+C: Doom Blade
+C: Doomed Necromancer
+C: Doubling Cube
+C: Doubling Season
+C: Dragonskull Summit
+C: Dralnu, Lich Lord
+C: Dread
+C: Dread Return
+C: Drowned Catacomb
+C: Dryad Arbor
+C: Earthquake
+C: Eldrazi Monument
+C: Electrolyze
+C: Electropotence
+C: Elephant Guide
+C: Elite Vanguard
+C: Enslave
+C: Eternal Dragon
+C: Eternity Vessel
+C: Evacuation
+C: Evolution Charm
+C: Expedition Map
+C: Experiment Kraj
+C: Explorer's Scope
+C: Explosive Vegetation
+C: Eye of the Storm
+C: Fabricate
+C: Faerie Macabre
+C: Faerie Trickery
+C: Faith's Fetters
+C: Fetid Heath
+C: Fireball
+C: Fire-Lit Thicket
+C: Fires of Yavimaya
+C: Firespout
+C: Flame Javelin
+C: Flametongue Kavu
+C: Fleshwrither
+C: Flickerform
+C: Flooded Grove
+C: Flooded Strand
+C: Followed Footsteps
+C: Forgotten Ancient
+C: Form of the Dragon
+C: Frontline Strategist
+C: Fungal Behemoth
+C: Furnace of Rath
+C: Fury Charm
+C: Gargoyle Castle
+C: Garruk Wildspeaker
+C: Gathan Raiders
+C: Gauntlet of Power
+C: Gelectrode
+C: General's Kabuto
+C: Genesis
+C: Ghastly Discovery
+C: Ghost Quarter
+C: Giant Solifuge
+C: Gifts Ungiven
+C: Glacial Fortress
+C: Glare of Subdual
+C: Gleancrawler
+C: Glen Elendra Liege
+C: Glimmervoid
+C: Glorious Anthem
+C: Glory
+C: Glory of Warfare
+C: Goblin Guide
+C: Godhead of Awe
+C: Godless Shrine
+C: Golgari Grave-Troll
 C: Golgari Rot Farm
-C: Boros Garrison
-C: Izzet Boilerworks
-C: Orzhov Basilica
+C: Golgari Signet
+C: Golgari Thug
+C: Govern the Guildless
+C: Grand Arbiter Augustin IV
+C: Graven Cairns
+C: Grave Pact
+C: Grave-Shell Scarab
+C: Graypelt Refuge
+C: Grim Poppet
+C: Grinning Totem
+C: Gruul Signet
 C: Gruul Turf
-C: Azorius Chancery
-C: Simic Growth Chamber
+C: Gruul War Plow
+C: Hallowed Fountain
+C: Harmonize
+C: Harrow
+C: Hateflayer
+C: Heartless Hidetsugu
+C: Heartwood Storyteller
+C: Hedge Troll
+C: Hellkite Charger
+C: Hibernation's End
+C: Hinder
+C: Hit//Run
+C: Hive Mind
+C: Horizon Canopy
+C: Howling Mine
+C: Hypnotic Specter
+C: Indrik Stomphowler
+C: Inkfathom Infiltrator
+C: Inkwell Leviathan
+C: Innocent Blood
+C: Insurrection
+C: Intet, the Dreamer
+C: Into the Roil
+C: Izzet Boilerworks
+C: Izzet Chronarch
+C: Izzet Signet
+C: Jinxed Choker
+C: Jokulhops
+C: Journey to Nowhere
+C: Juniper Order Ranger
+C: Jwar Isle Refuge
+C: Kagemaro, First to Suffer
+C: Kazandu Refuge
+C: Keldon Marauders
+C: Khalni Heart Expedition
+C: Kieldoran Javelineer
+C: Kira, Great Glass Spinner
+C: Kitchen Finks
+C: Knollspine Invocation
+C: Kodama's Reach
+C: Kor Sanctifiers
+C: Kor Skyfisher
+C: Krosan Tusker
+C: Kumano, Master Yamabushi
+C: Kusari-Gama
+C: Lavaborn Muse
+C: Leechridden Swamp
+C: Leyline of the Meek
+C: Lightning Bolt
+C: Lightning Helix
+C: Liliana Vess
+C: Loxodon Warhammer
+C: Luminarch Ascension
+C: Lurebound Scarecrow
+C: Lyzolda, the Blood Witch
+C: Magma Phoenix
+C: Magus of the Bazaar
+C: Magus of the Disk
+C: Magus of the Tabernacle
+C: Mana Leak
+C: Mana Tithe
+C: Mangara of Corondor
+C: Marrow Chomper
+C: Marsh Flats
+C: Martial Coup
+C: Master Warcraft
+C: Meloku the Clouded Mirror
+C: Memory Lapse
+C: Mind Stone
+C: Mirri the Cursed
+C: Misty Rainforest
+C: Mogg Fanatic
+C: Moldervine Cloak
+C: Molten Disaster
+C: Momentary Blink
+C: Moonlight Bargain
+C: Moratorium Stone
+C: Moroii
+C: Mortify
+C: Murderous Redcap
+C: Mystic Gate
+C: Mystic Snake
+C: Necrogen Spellbomb
+C: Necrotic Sliver
+C: Nefashu
+C: Nekrataal
+C: Nicol Bolas, Planeswalker
+C: Nihilith
+C: No-Dachi
+C: Obelisk of Alara
+C: Oblivion Ring
+C: Odds//Ends
+C: Ohran Viper
+C: Oracle of Mul Daya
+C: Oran-Rief Recluse
+C: Oran-Rief, the Vastwood
+C: Orim's Thunder
+C: Oros, the Avenger
+C: Orzhov Basilica
+C: Orzhov Pontiff
+C: Orzhov Signet
+C: Otherworldly Journey
+C: Outrider en-Kor
+C: Overgrown Tomb
+C: Overrun
+C: Pact of Negation
+C: Paladin en-Vec
+C: Parallax Tide
+C: Pentavus
+C: Phantom Wings
+C: Phyrexian Arena
+C: Pithing Needle
+C: Plagued Rusalka
+C: Plague Wind
+C: Plated Geopede
+C: Plumeveil
+C: Polluted Delta
+C: Ponder
+C: Pongify
+C: Power Sink
+C: Prismatic Lens
+C: Profane Command
+C: Proper Burial
+C: Protean Hulk
+C: Pure//Simple
+C: Put Away
+C: Putrefy
+C: Pyrite Spellbomb
+C: Qasali Pridemage
+C: Quest for Ancient Flame
+C: Quest for the Gravelord
+C: Quicksand
 C: Rakdos Carnarium
-C: Blood Crypt
-C: Breeding Pool
+C: Rakdos Guildmage
+C: Rakdos Signet
+C: Rampaging Baloths
+C: Rampant Growth
+C: Rancor
+C: Rare-B-Gone
+C: Razia's Purification
+C: Recollect
+C: Recurring Nightmare
+C: Reflecting Pool
+C: Reiterate
+C: Relentless Assault
+C: Relic of Progenitus
+C: Repulse
+C: Reveillark
+C: Reya Dawnbringer
+C: Rise//Fall
+C: Rise from the Grave
+C: Rite of Replication
+C: River Boa
+C: Rix Maadi, Dungeon Palace
+C: Rockslide Elemental
+C: Rolling Thunder
+C: Rootbound Crag
+C: Rorix Bladewing
+C: Rout
+C: Rude Awakening
+C: Rugged Prairie
+C: Rumbling Slum
+C: Rushing River
+C: Sacred Foundry
+C: Sakashima the Impostor
+C: Samurai of the Pale Curtain
+C: Scalding Tarn
+C: Scion of the Wild
+C: Scourge of Kher Ridges
+C: Scute Mob
+C: Scuttlemutt
+C: Sejiri Refuge
+C: Selesnya Guildmage
+C: Selesnya Sanctuary
+C: Selesnya Signet
+C: Sengir Nosferatu
+C: Serendib Efreet
+C: Serra Angel
+C: Serrated Arrows
+C: Shivan Reef
+C: Silent Specter
+C: Silhana Ledgewalker
+C: Simic Growth Chamber
+C: Simic Signet
+C: Simic Sky Swallower
+C: Sisters of Stone Death
+C: Skeletal Vampire
+C: Skeleton Shard
+C: Sleep
+C: Smallpox
+C: Sorin Markov
+C: Soul Warden
+C: Spellbound Dragon
+C: Sphinx of Jwar Isle
+C: Spitting Image
+C: Squee, Goblin Nabob
 C: Steam Vents
 C: Stomping Ground
-C: Temple Garden
-C: Watery Grave
-C: Godless Shrine
-C: Hallowed Fountain
-C: Overgrown Tomb
-C: Sacred Foundry
-C: Jwar Isle Refuge
-C: Kazandu Refuge
-C: Graypelt Refuge
-C: Sejiri Refuge
-C: Akoum Refuge
-C: Misty Rainforest
-C: Arid Mesa
-C: Marsh Flats
-C: Scalding Tarn
-C: Verdant Catacombs
-C: Flooded Strand
-C: Polluted Delta
-C: Bloodstained Mire
-C: Windswept Heath
-C: Wooded Foothills
-C: Dragonskull Summit
-C: Drowned Catacomb
-C: Glacial Fortress
-C: Rootbound Crag
-C: Sunpetal Grove
-C: Cascade Bluffs
-C: Fetid Heath
-C: Fire-Lit Thicket
-C: Flooded Grove
-C: Graven Cairns
-C: Mystic Gate
-C: Rugged Prairie
+C: Stonecloaker
+C: Sudden Death
+C: Sudden Spoiling
+C: Sulfurous Springs
+C: Sundering Vitae
+C: Sunforger
 C: Sunken Ruins
+C: Sunpetal Grove
+C: Supply//Demand
+C: Swans of Bryn Argoll
+C: Sway the Stars
+C: Sword of the Paruns
+C: Swords to Plowshares
+C: Symbol Status
+C: Syphon Mind
+C: Take Possession
+C: Taurean Mauler
+C: Telling Time
+C: Temple Garden
+C: Terramorphic Expanse
+C: Teysa, Orzhov Scion
+C: The Hive
+C: Thieves' Auction
+C: Thieving Magpie
+C: Thornscape Battlemage
+C: Thoughts of Ruin
+C: Tidings
+C: Time Stop
+C: Time Warp
+C: Tin Street Hooligan
+C: Tolaria West
+C: Tolsimir Wolfblood
+C: Tombstalker
+C: Torchling
+C: Treetop Village
+C: Trial//Error
+C: Triskelavus
+C: Troll Ascetic
+C: Trusty Machete
+C: Trygon Predator
+C: Twilight Drover
 C: Twilight Mire
+C: Twincast
+C: Twlight Shepard
+C: Umbral Mantle
+C: Upheaval
+C: Urborg Syphon Mage
+C: Vampire Hexmage
+C: Vampire Nighthawk
+C: Venser's Diffusion
+C: Verdant Catacombs
+C: Verdant Force
+C: Verdeloth the Ancient
+C: Vesuva
+C: Vexing Sphinx
+C: Vigor Mortis
+C: Vines of Vastwood
+C: Voidslime
+C: Vulturous Zombie
+C: Wall of Denial
+C: Wall of Frost
+C: Wall of Roots
+C: War's Toll
+C: Waterfront Bouncer
+C: Watery Grave
+C: Weatherseed Totem
+C: Whispersilk Cloak
+C: White Knight
+C: Wildfire
+C: Wild Mongrel
+C: Windstorm
+C: Windswept Heath
+C: Wipe Away
+C: Withered Wretch
 C: Wooded Bastion
-C: Glimmervoid
-C: Reflecting Pool
+C: Wooded Foothills
+C: Woodfall Primus
+C: Word of Seizing
+C: World Queller
+C: Wrath of God
+C: Wrecking Ball
+C: Yixlid Jailer
+C: Yosei the Morning Star
+C: Zombify
