@@ -61,7 +61,7 @@ def card_to_mws(oracle, cardname, rarity=None):
     _type = card.type
     _pt = get_card_pt(card)
     #_text = get_card_text(card)
-    _text = unicode(card.Text)
+    _text = unicode(card.Text).replace("\n", "  ")
     _rarity = rarity or 'C'
     _num = '79/79'
     print('Card Name:	' + _name)
