@@ -138,7 +138,7 @@ sub has_mythics {
 
 sub write_nd_header {
 	my ($ND_FH) = @_;
-	print {$ND_FH} "\0\0\0\0\17\0";
+	print {$ND_FH} "\2\0\4\0\11\0";
 	return;
 }
 
