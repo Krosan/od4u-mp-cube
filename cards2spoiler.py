@@ -26,7 +26,8 @@ def get_card(oracle, cardname):
     try:
         return filter(lambda c: c.name == cardname, oracle.cards.card)[0]
     except IndexError:
-        raise ValueError('No card named "' + cardname + '"')
+        sys.stderr.write('No card named "' + cardname + '"')
+        return None
 
 def get_card_pt(card):
     try:
@@ -52,6 +53,8 @@ def card_to_mws(oracle, cardname, rarity=None):
         rarity = cardname[0]
         cardname = cardname[3:]
     card = get_card(oracle, cardname)
+    if card is None:
+        return
     _name = card.name
     _color = get_card_color(_name)
     _cost = unicode(card.manacost)
