@@ -11,7 +11,7 @@ U: Akroma, Angel of Fury
 U: Akroma, Angel of Wrath
 U: Akroma's Memorial
 R: Akroma's Vengeance
-R: All is Dust
+R: All Is Dust
 C: Ana Battlemage
 C: Ancient Grudge
 U: Ant Queen
@@ -316,7 +316,7 @@ C: Put Away
 C: Putrefy
 C: Pyrite Spellbomb
 C: Qasali Pridemage
-C: Quest for Ancient Flame
+C: Quest for Pure Flame
 C: Quest for the Gravelord
 C: Quicksand
 C: Rakdos Guildmage
