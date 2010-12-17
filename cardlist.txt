@@ -241,6 +241,7 @@ R: Liliana Vess
 C: Loxodon Warhammer
 C: Lurebound Scarecrow
 U: Lyzolda, the Blood Witch
+C: Magma Jet
 U: Magma Phoenix
 C: Magus of the Bazaar
 U: Magus of the Tabernacle
