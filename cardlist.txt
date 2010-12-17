@@ -12,21 +12,23 @@ C: Akroma, Angel of Fury
 C: Akroma, Angel of Wrath
 C: Akroma's Memorial
 C: Akroma's Vengeance
+R: All is Dust
 C: Ana Battlemage
 C: Ancient Grudge
 C: Ant Queen
+R: Arashi, the Sky Asunder
 C: Arid Mesa
-C: Armageddon
-C: Ashling the Pilgrim
+U: Ashling the Pilgrim
 C: Assault // Battery
 C: Aura of Silence
+R: Austere Command
 C: Avatar of Woe
 C: Azorius Chancery
 C: Azorius Guildmage
 C: Azorius Signet
 C: Balefire Liege
 C: Ballynock Cohort
-C: Barter in Blood
+U: Barter in Blood
 C: Battlefield Forge
 C: Beacon of Unrest
 C: Beastmaster Ascension
@@ -43,7 +45,7 @@ C: Bloodstained Mire
 C: Body Double
 C: Bogardan Hellkite
 C: Boggart Ram-Gang
-C: Boom // Bust
+R: Boom // Bust
 C: Boros Fury-Shield
 C: Boros Garrison
 C: Boros Signet
@@ -60,8 +62,7 @@ C: Call the Skybreaker
 C: Cancel
 C: Carnage Altar
 C: Cascade Bluffs
-C: Cataclysm
-C: Catastrophe
+R: Cataclysm
 C: Chandra Nalaar
 C: Channel
 C: Char
@@ -76,6 +77,7 @@ C: Condemn
 C: Confiscate
 C: Confusion in the Ranks
 C: Conqueror's Pledge
+R: Contagion Engine
 C: Copy Enchantment
 C: Court Hussar
 C: Crime // Punishment
@@ -85,15 +87,16 @@ C: Crystal Shard
 C: Cultural Exchange
 C: Cytoplast Root-Kin
 C: Dakmor Salvage
-C: Damnation
 C: Dark Depths
-C: Day of Judgment
+R: Day of Judgment
 C: Dead // Gone
 C: Deadwood Treefolk
+R: Death Cloud
 C: Deathgreeter
 C: Debtors' Knell
+U: Decimate
 C: Decree of Justice
-C: Decree of Pain
+R: Decree of Pain
 C: Deep Analysis
 C: Demonfire
 C: Demonic Tutor
@@ -113,11 +116,11 @@ C: Doubling Cube
 C: Doubling Season
 C: Dragonskull Summit
 C: Dralnu, Lich Lord
-C: Dread
+U: Dread
 C: Dread Return
 C: Drowned Catacomb
 C: Dryad Arbor
-C: Earthquake
+R: Earthquake
 C: Eldrazi Monument
 C: Electrolyze
 C: Electropotence
@@ -126,7 +129,7 @@ C: Elite Vanguard
 C: Enslave
 C: Eternal Dragon
 C: Eternity Vessel
-C: Evacuation
+R: Evacuation
 C: Evolution Charm
 C: Expedition Map
 C: Experiment Kraj
@@ -184,7 +187,7 @@ C: Golgari Thug
 C: Govern the Guildless
 C: Grand Arbiter Augustin IV
 C: Graven Cairns
-C: Grave Pact
+U: Grave Pact
 C: Grave-Shell Scarab
 C: Graypelt Refuge
 C: Grim Poppet
@@ -192,6 +195,7 @@ C: Grinning Totem
 C: Gruul Signet
 C: Gruul Turf
 C: Gruul War Plow
+R: Hallowed Burial
 C: Hallowed Fountain
 C: Harmonize
 C: Harrow
@@ -206,6 +210,7 @@ C: Hit // Run
 C: Hive Mind
 C: Horizon Canopy
 C: Howling Mine
+R: Hurricane
 C: Hypnotic Specter
 C: Indrik Stomphowler
 C: Inkfathom Infiltrator
@@ -218,17 +223,17 @@ C: Izzet Boilerworks
 C: Izzet Chronarch
 C: Izzet Signet
 C: Jinxed Choker
-C: Jokulhaups
+R: Jokulhaups
 C: Journey to Nowhere
 C: Juniper Order Ranger
 C: Jwar Isle Refuge
-C: Kagemaro, First to Suffer
+R: Kagemaro, First to Suffer
 C: Kazandu Refuge
 C: Keldon Marauders
 C: Khalni Heart Expedition
-C: Kjeldoran Javelineer
 C: Kira, Great Glass-Spinner
 C: Kitchen Finks
+C: Kjeldoran Javelineer
 C: Knollspine Invocation
 C: Kodama's Reach
 C: Kor Sanctifiers
@@ -245,42 +250,44 @@ C: Liliana Vess
 C: Loxodon Warhammer
 C: Lurebound Scarecrow
 C: Lyzolda, the Blood Witch
-C: Magma Phoenix
+U: Magma Phoenix
 C: Magus of the Bazaar
-C: Magus of the Disk
-C: Magus of the Tabernacle
+U: Magus of the Tabernacle
 C: Mana Leak
 C: Mana Tithe
 C: Mangara of Corondor
 C: Marrow Chomper
 C: Marsh Flats
-C: Martial Coup
-C: Master Warcraft
-C: Meloku the Clouded Mirror
+R: Martial Coup
+U: Master Warcraft
+U: Meloku the Clouded Mirror
 C: Memory Lapse
 C: Mind Stone
-C: Mirri the Cursed
+U: Mirri the Cursed
 C: Misty Rainforest
 C: Mogg Fanatic
 C: Moldervine Cloak
-C: Molten Disaster
+R: Molten Disaster
 C: Momentary Blink
 C: Moonlight Bargain
 C: Moratorium Stone
 C: Moroii
 C: Mortify
 C: Murderous Redcap
+R: Mutilate
 C: Mystic Gate
 C: Mystic Snake
 C: Necrogen Spellbomb
 C: Necrotic Sliver
-C: Nefashu
+U: Nefashu
 C: Nekrataal
+R: Nevinyrral's Disk
 C: Nicol Bolas, Planeswalker
 C: Nihilith
 C: No-Dachi
 C: Obelisk of Alara
 C: Oblivion Ring
+R: Oblivion Stone
 C: Odds // Ends
 C: Ohran Viper
 C: Oracle of Mul Daya
@@ -328,7 +335,7 @@ C: Rakdos Signet
 C: Rampaging Baloths
 C: Rampant Growth
 C: Rancor
-C: Razia's Purification
+R: Razia's Purification
 C: Recollect
 C: Recurring Nightmare
 C: Reflecting Pool
@@ -344,7 +351,8 @@ C: Rite of Replication
 C: River Boa
 C: Rix Maadi, Dungeon Palace
 C: Rockslide Elemental
-C: Rolling Thunder
+U: Roc of Kher Ridges
+R: Rolling Thunder
 C: Rootbound Crag
 C: Rorix Bladewing
 C: Rout
@@ -355,6 +363,7 @@ C: Rushing River
 C: Sacred Foundry
 C: Sakashima the Impostor
 C: Samurai of the Pale Curtain
+U: Savage Twister
 C: Scalding Tarn
 C: Scion of the Wild
 C: Scourge of Kher Ridges
@@ -397,7 +406,6 @@ C: Sunken Ruins
 C: Sunpetal Grove
 C: Supply // Demand
 C: Swans of Bryn Argoll
-C: Sway of the Stars
 C: Sword of the Paruns
 C: Swords to Plowshares
 C: Syphon Mind
@@ -411,8 +419,8 @@ C: The Hive
 C: Thieves' Auction
 C: Thieving Magpie
 C: Thornscape Battlemage
-C: Thoughts of Ruin
 C: Tidings
+R: Time spiral
 C: Time Stop
 C: Time Warp
 C: Tin Street Hooligan
@@ -428,10 +436,10 @@ C: Trusty Machete
 C: Trygon Predator
 C: Twilight Drover
 C: Twilight Mire
-C: Twincast
 C: Twilight Shepard
+C: Twincast
 C: Umbral Mantle
-C: Upheaval
+R: Upheaval
 C: Urborg Syphon-Mage
 C: Vampire Hexmage
 C: Vampire Nighthawk
@@ -454,9 +462,8 @@ C: Watery Grave
 C: Weatherseed Totem
 C: Whispersilk Cloak
 C: White Knight
-C: Wildfire
+R: Wildfire
 C: Wild Mongrel
-C: Windstorm
 C: Windswept Heath
 C: Wipe Away
 C: Withered Wretch
@@ -465,12 +472,7 @@ C: Wooded Foothills
 C: Woodfall Primus
 C: Word of Seizing
 C: World Queller
-C: Wrath of God
 C: Wrecking Ball
 C: Yixlid Jailer
 C: Yosei, the Morning Star
 C: Zombify
-U: Island
-U: Plains
-U: Mountain
-R: Swamp
