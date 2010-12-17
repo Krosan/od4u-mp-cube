@@ -7,7 +7,6 @@ C: Adventuring Gear
 C: Aether Spellbomb
 C: Agent of Masks
 C: Ajani Goldmane
-C: Akoum Refuge
 C: Akroma, Angel of Fury
 C: Akroma, Angel of Wrath
 C: Akroma's Memorial
@@ -34,7 +33,7 @@ C: Beacon of Unrest
 C: Beastmaster Ascension
 C: Beseech the Queen
 C: Betrayal of Flesh
-C: Birds of Paradise
+U: Birds of Paradise
 C: Black Knight
 C: Blastoderm
 C: Blinkmoth Nexus
@@ -189,7 +188,6 @@ C: Grand Arbiter Augustin IV
 C: Graven Cairns
 U: Grave Pact
 C: Grave-Shell Scarab
-C: Graypelt Refuge
 C: Grim Poppet
 C: Grinning Totem
 C: Gruul Signet
@@ -226,9 +224,7 @@ C: Jinxed Choker
 R: Jokulhaups
 C: Journey to Nowhere
 C: Juniper Order Ranger
-C: Jwar Isle Refuge
 R: Kagemaro, First to Suffer
-C: Kazandu Refuge
 C: Keldon Marauders
 C: Khalni Heart Expedition
 C: Kira, Great Glass-Spinner
@@ -369,7 +365,6 @@ C: Scion of the Wild
 C: Scourge of Kher Ridges
 C: Scute Mob
 C: Scuttlemutt
-C: Sejiri Refuge
 C: Selesnya Guildmage
 C: Selesnya Sanctuary
 C: Selesnya Signet
