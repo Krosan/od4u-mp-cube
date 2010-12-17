@@ -6,22 +6,22 @@ C: Adarkar Wastes
 C: Adventuring Gear
 C: Aether Spellbomb
 C: Agent of Masks
-C: Ajani Goldmane
-C: Akroma, Angel of Fury
-C: Akroma, Angel of Wrath
-C: Akroma's Memorial
-C: Akroma's Vengeance
+R: Ajani Goldmane
+U: Akroma, Angel of Fury
+U: Akroma, Angel of Wrath
+U: Akroma's Memorial
+R: Akroma's Vengeance
 R: All is Dust
 C: Ana Battlemage
 C: Ancient Grudge
-C: Ant Queen
+U: Ant Queen
 R: Arashi, the Sky Asunder
 C: Arid Mesa
 U: Ashling the Pilgrim
 C: Assault // Battery
 C: Aura of Silence
 R: Austere Command
-C: Avatar of Woe
+U: Avatar of Woe
 C: Azorius Chancery
 C: Azorius Guildmage
 C: Azorius Signet
@@ -29,16 +29,16 @@ C: Balefire Liege
 C: Ballynock Cohort
 U: Barter in Blood
 C: Battlefield Forge
-C: Beacon of Unrest
-C: Beastmaster Ascension
-C: Beseech the Queen
+U: Beacon of Unrest
+U: Beastmaster Ascension
+U: Beseech the Queen
 C: Betrayal of Flesh
 U: Birds of Paradise
 C: Black Knight
 C: Blastoderm
 C: Blinkmoth Nexus
 C: Blood Crypt
-C: Bloodghast
+U: Bloodghast
 C: Blood Knight
 C: Bloodstained Mire
 C: Body Double
@@ -48,8 +48,8 @@ R: Boom // Bust
 C: Boros Fury-Shield
 C: Boros Garrison
 C: Boros Signet
-C: Bosh, Iron Golem
-C: Braid of Fire
+U: Bosh, Iron Golem
+U: Braid of Fire
 C: Breath of Life
 C: Breeding Pool
 C: Briarhorn
@@ -62,8 +62,8 @@ C: Cancel
 C: Carnage Altar
 C: Cascade Bluffs
 R: Cataclysm
-C: Chandra Nalaar
-C: Channel
+R: Chandra Nalaar
+R: Channel
 C: Char
 C: Chimeric Staff
 C: Chromatic Star
@@ -73,54 +73,52 @@ C: Coalition Relic
 C: Coat of Arms
 C: Concerted Effort
 C: Condemn
-C: Confiscate
-C: Confusion in the Ranks
-C: Conqueror's Pledge
+U: Confiscate
+U: Confusion in the Ranks
+R: Conqueror's Pledge
 R: Contagion Engine
 C: Copy Enchantment
 C: Court Hussar
 C: Crime // Punishment
 C: Crown of Convergence
-C: Crucible of Worlds
+U: Crucible of Worlds
 C: Crystal Shard
 C: Cultural Exchange
 C: Cytoplast Root-Kin
 C: Dakmor Salvage
-C: Dark Depths
+U: Dark Depths
 R: Day of Judgment
 C: Dead // Gone
 C: Deadwood Treefolk
 R: Death Cloud
 C: Deathgreeter
-C: Debtors' Knell
+R: Debtors' Knell
 U: Decimate
 C: Decree of Justice
 R: Decree of Pain
 C: Deep Analysis
 C: Demonfire
-C: Demonic Tutor
+U: Demonic Tutor
 C: Devouring Light
-C: Diabolic Tutor
-C: Dimir Aqueduct
 C: Dimir Doppelganger
 C: Dimir Guildmage
 C: Dimir Signet
 C: Din of the Fireherd
 C: Discombobulate
 C: Disenchant
-C: Djinn Illuminatus
+U: Djinn Illuminatus
 C: Doom Blade
 C: Doomed Necromancer
 C: Doubling Cube
-C: Doubling Season
+U: Doubling Season
 C: Dragonskull Summit
-C: Dralnu, Lich Lord
+U: Dralnu, Lich Lord
 U: Dread
 C: Dread Return
 C: Drowned Catacomb
 C: Dryad Arbor
 R: Earthquake
-C: Eldrazi Monument
+U: Eldrazi Monument
 C: Electrolyze
 C: Electropotence
 C: Elephant Guide
@@ -143,16 +141,16 @@ C: Fetid Heath
 C: Fireball
 C: Fire-Lit Thicket
 C: Fires of Yavimaya
-C: Firespout
+U: Firespout
 C: Flame Javelin
 C: Flametongue Kavu
 C: Fleshwrither
-C: Flickerform
+U: Flickerform
 C: Flooded Grove
 C: Flooded Strand
 C: Followed Footsteps
-C: Forgotten Ancient
-C: Form of the Dragon
+U: Forgotten Ancient
+U: Form of the Dragon
 C: Frontline Strategist
 C: Fungal Behemoth
 C: Furnace of Rath
@@ -167,12 +165,12 @@ C: Genesis
 C: Ghastly Discovery
 C: Ghost Quarter
 C: Giant Solifuge
-C: Gifts Ungiven
+R: Gifts Ungiven
 C: Glacial Fortress
 C: Glare of Subdual
 C: Gleancrawler
 C: Glen Elendra Liege
-C: Glimmervoid
+U: Glimmervoid
 C: Glorious Anthem
 C: Glory
 C: Glory of Warfare
@@ -180,10 +178,9 @@ C: Goblin Guide
 C: Godhead of Awe
 C: Godless Shrine
 C: Golgari Grave-Troll
-C: Golgari Rot Farm
 C: Golgari Signet
 C: Golgari Thug
-C: Govern the Guildless
+U: Govern the Guildless
 C: Grand Arbiter Augustin IV
 C: Graven Cairns
 U: Grave Pact
@@ -198,14 +195,13 @@ C: Hallowed Fountain
 C: Harmonize
 C: Harrow
 C: Hateflayer
-C: Heartless Hidetsugu
+U: Heartless Hidetsugu
 C: Heartwood Storyteller
 C: Hedge Troll
 C: Hellkite Charger
 C: Hibernation's End
 C: Hinder
 C: Hit // Run
-C: Hive Mind
 C: Horizon Canopy
 C: Howling Mine
 R: Hurricane
@@ -214,10 +210,9 @@ C: Indrik Stomphowler
 C: Inkfathom Infiltrator
 C: Inkwell Leviathan
 C: Innocent Blood
-C: Insurrection
-C: Intet, the Dreamer
+R: Insurrection
+U: Intet, the Dreamer
 C: Into the Roil
-C: Izzet Boilerworks
 C: Izzet Chronarch
 C: Izzet Signet
 C: Jinxed Choker
@@ -227,7 +222,7 @@ C: Juniper Order Ranger
 R: Kagemaro, First to Suffer
 C: Keldon Marauders
 C: Khalni Heart Expedition
-C: Kira, Great Glass-Spinner
+U: Kira, Great Glass-Spinner
 C: Kitchen Finks
 C: Kjeldoran Javelineer
 C: Knollspine Invocation
@@ -235,23 +230,23 @@ C: Kodama's Reach
 C: Kor Sanctifiers
 C: Kor Skyfisher
 C: Krosan Tusker
-C: Kumano, Master Yamabushi
+U: Kumano, Master Yamabushi
 C: Kusari-Gama
 C: Lavaborn Muse
 C: Leechridden Swamp
 C: Leyline of the Meek
 C: Lightning Bolt
 C: Lightning Helix
-C: Liliana Vess
+R: Liliana Vess
 C: Loxodon Warhammer
 C: Lurebound Scarecrow
-C: Lyzolda, the Blood Witch
+U: Lyzolda, the Blood Witch
 U: Magma Phoenix
 C: Magus of the Bazaar
 U: Magus of the Tabernacle
 C: Mana Leak
 C: Mana Tithe
-C: Mangara of Corondor
+U: Mangara of Corondor
 C: Marrow Chomper
 C: Marsh Flats
 R: Martial Coup
@@ -274,11 +269,11 @@ R: Mutilate
 C: Mystic Gate
 C: Mystic Snake
 C: Necrogen Spellbomb
-C: Necrotic Sliver
+U: Necrotic Sliver
 U: Nefashu
 C: Nekrataal
 R: Nevinyrral's Disk
-C: Nicol Bolas, Planeswalker
+R: Nicol Bolas, Planeswalker
 C: Nihilith
 C: No-Dachi
 C: Obelisk of Alara
@@ -286,19 +281,18 @@ C: Oblivion Ring
 R: Oblivion Stone
 C: Odds // Ends
 C: Ohran Viper
-C: Oracle of Mul Daya
+U: Oracle of Mul Daya
 C: Oran-Rief Recluse
 C: Oran-Rief, the Vastwood
 C: Orim's Thunder
-C: Oros, the Avenger
-C: Orzhov Basilica
+U: Oros, the Avenger
 C: Orzhov Pontiff
 C: Orzhov Signet
 C: Otherworldly Journey
 C: Outrider en-Kor
 C: Overgrown Tomb
 C: Overrun
-C: Pact of Negation
+U: Pact of Negation
 C: Paladin en-Vec
 C: Parallax Tide
 C: Pentavus
@@ -325,39 +319,38 @@ C: Qasali Pridemage
 C: Quest for Ancient Flame
 C: Quest for the Gravelord
 C: Quicksand
-C: Rakdos Carnarium
 C: Rakdos Guildmage
 C: Rakdos Signet
-C: Rampaging Baloths
+U: Rampaging Baloths
 C: Rampant Growth
 C: Rancor
 R: Razia's Purification
-C: Recollect
-C: Recurring Nightmare
-C: Reflecting Pool
+C: Regrowth
+R: Recurring Nightmare
+U: Reflecting Pool
 C: Reiterate
 C: Relentless Assault
 C: Relic of Progenitus
 C: Repulse
-C: Reveillark
-C: Reya Dawnbringer
+U: Reveillark
+U: Reya Dawnbringer
 C: Rise // Fall
 C: Rise from the Grave
-C: Rite of Replication
+R: Rite of Replication
 C: River Boa
 C: Rix Maadi, Dungeon Palace
 C: Rockslide Elemental
 U: Roc of Kher Ridges
 R: Rolling Thunder
 C: Rootbound Crag
-C: Rorix Bladewing
-C: Rout
-C: Rude Awakening
+U: Rorix Bladewing
+R: Rout
+U: Rude Awakening
 C: Rugged Prairie
 C: Rumbling Slum
 C: Rushing River
 C: Sacred Foundry
-C: Sakashima the Impostor
+U: Sakashima the Impostor
 C: Samurai of the Pale Curtain
 U: Savage Twister
 C: Scalding Tarn
@@ -366,7 +359,6 @@ C: Scourge of Kher Ridges
 C: Scute Mob
 C: Scuttlemutt
 C: Selesnya Guildmage
-C: Selesnya Sanctuary
 C: Selesnya Signet
 C: Sengir Nosferatu
 C: Serendib Efreet
@@ -383,12 +375,12 @@ C: Skeletal Vampire
 C: Skeleton Shard
 C: Sleep
 C: Smallpox
-C: Sorin Markov
+R: Sorin Markov
 C: Soul Warden
 C: Spellbound Dragon
 C: Sphinx of Jwar Isle
 C: Spitting Image
-C: Squee, Goblin Nabob
+U: Squee, Goblin Nabob
 C: Steam Vents
 C: Stomping Ground
 C: Stonecloaker
@@ -405,22 +397,22 @@ C: Sword of the Paruns
 C: Swords to Plowshares
 C: Syphon Mind
 C: Take Possession
-C: Taurean Mauler
+U: Taurean Mauler
 C: Telling Time
 C: Temple Garden
 C: Terramorphic Expanse
-C: Teysa, Orzhov Scion
+U: Teysa, Orzhov Scion
 C: The Hive
 C: Thieves' Auction
 C: Thieving Magpie
 C: Thornscape Battlemage
 C: Tidings
-R: Time spiral
+R: Time Spiral
 C: Time Stop
 C: Time Warp
 C: Tin Street Hooligan
 C: Tolaria West
-C: Tolsimir Wolfblood
+U: Tolsimir Wolfblood
 C: Tombstalker
 C: Torchling
 C: Treetop Village
@@ -442,7 +434,7 @@ C: Venser's Diffusion
 C: Verdant Catacombs
 C: Verdant Force
 C: Verdeloth the Ancient
-C: Vesuva
+U: Vesuva
 C: Vexing Sphinx
 C: Vigor Mortis
 C: Vines of Vastwood
@@ -464,10 +456,10 @@ C: Wipe Away
 C: Withered Wretch
 C: Wooded Bastion
 C: Wooded Foothills
-C: Woodfall Primus
-C: Word of Seizing
-C: World Queller
+U: Woodfall Primus
+U: Word of Seizing
+U: World Queller
 C: Wrecking Ball
 C: Yixlid Jailer
-C: Yosei, the Morning Star
+U: Yosei, the Morning Star
 C: Zombify
