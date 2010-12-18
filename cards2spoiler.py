@@ -29,7 +29,7 @@ def get_card(oracle, cardname):
     try:
         return filter(lambda c: c.name == cardname, oracle.cards.card)[0]
     except IndexError:
-        sys.stderr.write('No card named "' + cardname + '"')
+        sys.stderr.write('No card named "%s"\n' % cardname)
         return None
 
 def get_card_pt(card):
@@ -85,5 +85,5 @@ if __name__ == '__main__':
 
     with open('cardlist.txt') as f:
         for card in f:
-            sys.stderr.write(card)
+            #sys.stderr.write(card)
             card_to_mws(oracle, card.rstrip())
