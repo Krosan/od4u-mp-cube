@@ -4,6 +4,7 @@ C: Act of Treason
 C: Adarkar Valkyrie
 C: Adarkar Wastes
 C: Adventuring Gear
+C: Aether Adept
 C: Aether Spellbomb
 C: Agent of Masks
 R: Ajani Goldmane
@@ -17,11 +18,14 @@ C: Ancient Grudge
 U: Ant Queen
 U: Arashi, the Sky Asunder
 C: Arid Mesa
+C: Ashenmoor Gouger
 U: Ashling the Pilgrim
 C: Assault // Battery
 C: Aura of Silence
 R: Austere Command
+C: Avalanche Riders
 U: Avatar of Woe
+C: Aven Riftwatcher
 C: Azorius Chancery
 C: Azorius Guildmage
 C: Azorius Signet
@@ -30,13 +34,18 @@ C: Ballynock Cohort
 U: Barter in Blood
 C: Battlefield Forge
 U: Beacon of Unrest
+C: Beastbreaker of Bala Ged
 U: Beastmaster Ascension
 U: Beseech the Queen
 C: Betrayal of Flesh
 U: Birds of Paradise
 C: Black Knight
 C: Blastoderm
+C: Searing Spear Askari
+C: Blazing Blade Askari
+C: Blind Hunter
 C: Blinkmoth Nexus
+C: Bloodbraid Elf
 C: Blood Crypt
 U: Bloodghast
 C: Blood Knight
@@ -45,8 +54,10 @@ C: Body Double
 C: Bogardan Hellkite
 C: Boggart Ram-Gang
 R: Boom // Bust
+C: Borderland Ranger
 C: Boros Fury-Shield
 C: Boros Garrison
+C: Boros Guildmage
 C: Boros Signet
 U: Bosh, Iron Golem
 U: Braid of Fire
@@ -60,16 +71,24 @@ C: Call of the Herd
 C: Call the Skybreaker
 C: Cancel
 C: Carnage Altar
+C: Carnophage
 C: Cascade Bluffs
 R: Cataclysm
+C: Cathodion
+C: Cerodon Yearling
 R: Chandra Nalaar
 C: Char
+C: Chatter of the Squirrel
 C: Chimeric Staff
+C: Chittering Rats
 C: Chromatic Star
 C: Chrome Mox
+C: Clone
 C: Cloudstone Curio
 C: Coalition Relic
 C: Coat of Arms
+C: Coiled Tinviper
+C: Coiling Oracle
 C: Concerted Effort
 C: Condemn
 U: Confiscate
@@ -82,12 +101,15 @@ C: Crime // Punishment
 C: Crown of Convergence
 U: Crucible of Worlds
 C: Crystal Shard
+C: Cudgel Troll
 C: Cultural Exchange
 C: Cytoplast Root-Kin
 C: Dakmor Salvage
 U: Dark Depths
+C: Daru Warchief
 R: Day of Judgment
 C: Dead // Gone
+C: Deadly Recluse
 C: Deadwood Treefolk
 R: Death Cloud
 C: Deathgreeter
@@ -111,32 +133,37 @@ C: Doomed Necromancer
 C: Doubling Cube
 U: Doubling Season
 C: Dragonskull Summit
+C: Dragon Whelp
 U: Dralnu, Lich Lord
 U: Dread
 C: Dread Return
 C: Drowned Catacomb
 C: Dryad Arbor
 R: Earthquake
+C: Ebony Treefolk
 U: Eldrazi Monument
 C: Electrolyze
 C: Electropotence
 C: Elephant Guide
 C: Elite Vanguard
+C: Ember Hauler
 C: Enslave
 C: Eternal Dragon
+C: Eternal Witness
 C: Eternity Vessel
 R: Evacuation
 C: Evolution Charm
 C: Expedition Map
 U: Experiment Kraj
 C: Explorer's Scope
-C: Eye of the Storm
 C: Fabricate
 C: Faerie Macabre
 C: Faerie Trickery
 C: Faith's Fetters
+C: Fathom Seer
 C: Fetid Heath
 U: Fireball
+C: Fire Imp
 C: Fires of Yavimaya
 U: Firespout
 C: Flame Javelin
@@ -148,12 +175,15 @@ C: Flooded Strand
 C: Followed Footsteps
 U: Forgotten Ancient
 U: Form of the Dragon
+C: Frenetic Sliver
 C: Frontline Strategist
 C: Fungal Behemoth
 C: Furnace of Rath
 C: Fury Charm
 C: Gargoyle Castle
+C: Garruk's Companion
 C: Garruk Wildspeaker
+C: Gatekeeper of Malakir
 C: Gathan Raiders
 C: Gauntlet of Power
 C: Gelectrode
@@ -168,14 +198,20 @@ C: Glacial Fortress
 C: Glare of Subdual
 C: Gleancrawler
 C: Glen Elendra Liege
+C: Glimmerpoint Stag
 U: Glimmervoid
 C: Glorious Anthem
 C: Glory
 C: Glory of Warfare
+C: Goblin Bushwhacker
 C: Goblin Guide
+C: Goblin Legionnaire
+C: Goblin Ringleader
+C: Goblin Ruinblaster
 C: Godhead of Awe
 C: Godless Shrine
 C: Golgari Grave-Troll
+C: Golgari Guildmage
 C: Golgari Signet
 C: Golgari Thug
 U: Govern the Guildless
@@ -194,47 +230,60 @@ C: Hateflayer
 U: Heartless Hidetsugu
 C: Heartwood Storyteller
 C: Hedge Troll
+C: Hellhole Rats
 C: Hellkite Charger
 C: Hibernation's End
 C: Hinder
 C: Hit // Run
 C: Horizon Canopy
+C: Horned Troll
 C: Howling Mine
 R: Hurricane
-U: Hypnotic Specter
+C: Hypnotic Specter
 C: Indrik Stomphowler
 C: Inkfathom Infiltrator
+C: Inkfathom Witch
 C: Inkwell Leviathan
 C: Innocent Blood
 R: Insurrection
 U: Intet, the Dreamer
 C: Into the Roil
 C: Izzet Chronarch
+C: Izzet Guildmage
 C: Izzet Signet
-C: Jackel Pup
+C: Jackal Pup
+C: Jhessian Infiltrator
 C: Jinxed Choker
 R: Jokulhaups
 C: Journey to Nowhere
 C: Juniper Order Ranger
+C: Juzám Djinn
 R: Kagemaro, First to Suffer
+C: Keening Banshee
+C: Keldon Champion
 C: Keldon Marauders
 C: Khalni Heart Expedition
 U: Kira, Great Glass-Spinner
 C: Kitchen Finks
 C: Kjeldoran Javelineer
+C: Knight of the Holy Nimbus
 C: Knollspine Invocation
 C: Kodama's Reach
+C: Kor Aeronaut
 C: Kor Sanctifiers
 C: Kor Skyfisher
 C: Krosan Tusker
 U: Kumano, Master Yamabushi
 C: Kusari-Gama
 C: Lavaborn Muse
+C: Leatherback Baloth
 C: Leechridden Swamp
 C: Leyline of the Meek
 C: Lightning Bolt
 C: Lightning Helix
 R: Liliana Vess
+C: Living Tsunami
+C: Looter il-Kor
 C: Loxodon Warhammer
 C: Lurebound Scarecrow
 U: Lyzolda, the Blood Witch
@@ -242,20 +291,24 @@ C: Magma Jet
 U: Magma Phoenix
 C: Magus of the Bazaar
 U: Magus of the Tabernacle
-C: Man-o'-War
 C: Mana Leak
 C: Mana Tithe
 R: Mangara of Corondor
+C: Man-o'-War
 C: Marrow Chomper
 C: Marsh Flats
 R: Martial Coup
 U: Master Warcraft
 U: Meloku the Clouded Mirror
+C: Memnite
 C: Memory Lapse
 C: Mind Stone
+C: Mire Boa
 U: Mirri the Cursed
+C: Mistral Charger
 C: Misty Rainforest
 C: Mogg Fanatic
+C: Mogg War Marshal
 C: Moldervine Cloak
 R: Molten Disaster
 C: Momentary Blink
@@ -267,24 +320,30 @@ C: Murderous Redcap
 R: Mutilate
 C: Mystic Gate
 C: Mystic Snake
+C: Necrogen Scudder
 C: Necrogen Spellbomb
 U: Necrotic Sliver
 U: Nefashu
 C: Nekrataal
+C: Nest Invader
 R: Nevinyrral's Disk
 R: Nicol Bolas, Planeswalker
+C: Nightshade Assassin
 C: Nihilith
 C: No-Dachi
+C: Noggle Ransacker
 C: Obelisk of Alara
 C: Oblivion Ring
 R: Oblivion Stone
 C: Odds // Ends
 C: Ohran Viper
+C: Ophidian
 U: Oracle of Mul Daya
 C: Oran-Rief Recluse
 C: Oran-Rief, the Vastwood
 C: Orim's Thunder
 U: Oros, the Avenger
+C: Orzhov Guildmage
 C: Orzhov Pontiff
 C: Orzhov Signet
 C: Otherworldly Journey
@@ -294,6 +353,7 @@ C: Overrun
 U: Pact of Negation
 C: Paladin en-Vec
 C: Parallax Tide
+C: Patagia Viper
 C: Pentavus
 C: Phantom Wings
 C: Phyrexian Arena
@@ -306,33 +366,42 @@ C: Ponder
 C: Pongify
 C: Power Sink
 C: Prismatic Lens
+C: Prodigal Sorcerer
 C: Profane Command
 C: Proper Burial
 C: Protean Hulk
+C: Psychatog
 C: Pulse Tracker
 C: Pure // Simple
 C: Put Away
 C: Putrefy
+C: Putrid Leech
+C: Putrid Warrior
 C: Pyrite Spellbomb
 C: Qasali Pridemage
 C: Quest for Pure Flame
 C: Quest for the Gravelord
 C: Quicksand
+C: Radha, Heir to Keld
 C: Rakdos Guildmage
 C: Rakdos Signet
 U: Rampaging Baloths
 C: Rampant Growth
 C: Rancor
+C: Rathi Trapper
+C: Ravenous Rats
+C: Ravenous Skirge
 R: Razia's Purification
-C: Regrowth
 R: Recurring Nightmare
 U: Reflecting Pool
+C: Regrowth
 C: Reiterate
 C: Relentless Assault
 C: Relic of Progenitus
 C: Repulse
 U: Reveillark
 U: Reya Dawnbringer
+C: Riptide Pilferer
 C: Rise // Fall
 C: Rise from the Grave
 R: Rite of Replication
@@ -349,22 +418,32 @@ C: Rumbling Slum
 C: Rushing River
 C: Sacred Foundry
 U: Sakashima the Impostor
+C: Sakura-Tribe Elder
 C: Samurai of the Pale Curtain
 U: Savage Twister
 C: Scalding Tarn
 C: Scion of the Wild
 U: Scourge of Kher Ridges
+C: Scroll Thief
 C: Scute Mob
 C: Scuttlemutt
+C: Sea Gate Oracle
 C: Selesnya Guildmage
 C: Selesnya Signet
+C: Selesnya Guildmage
+C: Sengir Autocrat
 C: Sengir Nosferatu
 C: Serendib Efreet
+C: Serendib Sorcerer
+C: Serendib Djinn
 C: Serra Angel
 C: Serrated Arrows
+C: Shambling Remains
+C: Shaper Parasite
 C: Shivan Reef
 C: Silent Specter
 C: Silhana Ledgewalker
+C: Silver Knight
 C: Simic Growth Chamber
 C: Simic Signet
 C: Simic Sky Swallower
@@ -372,27 +451,37 @@ C: Sisters of Stone Death
 C: Skeletal Vampire
 C: Skeleton Shard
 C: Skinrender
+C: Skirk Marauder
+C: Skittering Skirge
 R: Skullclamp
+C: Skyknight Legionnaire
 C: Skyshroud Claim
 C: Sleep
 C: Smallpox
+C: Somnomancer
 R: Sorin Markov
 C: Soul Warden
+C: Spectral Procession
 C: Spellbound Dragon
 C: Sphinx of Jwar Isle
 C: Spitting Image
 U: Squee, Goblin Nabob
 C: Steam Vents
+C: Steppe Lynx
+C: Stingscourger
 C: Stomping Ground
 C: Stonecloaker
+C: Stoneforge Mystic
 C: Sudden Death
 C: Sudden Spoiling
 C: Sulfurous Springs
 C: Sundering Vitae
 C: Sunforger
+C: Sunhome Enforcer
 C: Sunken Ruins
 C: Sunpetal Grove
 C: Supply // Demand
+C: Suq'Ata Lancer
 C: Swans of Bryn Argoll
 C: Sword of the Paruns
 C: Swords to Plowshares
@@ -407,6 +496,7 @@ C: The Hive
 C: Thieves' Auction
 C: Thieving Magpie
 C: Thornscape Battlemage
+C: Thornweald Archer
 C: Tidings
 R: Time Spiral
 C: Time Stop
@@ -424,12 +514,14 @@ C: Trusty Machete
 C: Trygon Predator
 C: Twilight Drover
 C: Twilight Mire
-C: Twilight Shepard
+C: Twilight Shepherd
 C: Twincast
+C: Uktabi Orangutan
 C: Umbral Mantle
 R: Upheaval
 C: Urborg Syphon-Mage
 C: Vampire Hexmage
+C: Vampire Lacerator
 C: Vampire Nighthawk
 C: Venser's Diffusion
 C: Verdant Catacombs
@@ -439,19 +531,29 @@ U: Vesuva
 C: Vexing Sphinx
 C: Vigor Mortis
 C: Vines of Vastwood
+C: Vithian Renegades
+C: Voidmage Apprentice
+C: Voidmage Husher
 C: Voidslime
 C: Vulturous Zombie
+C: Wall of Blossoms
 C: Wall of Denial
 C: Wall of Frost
+C: Wall of Omens
 C: Wall of Roots
+C: Warmonger
 C: War's Toll
+C: Watchwolf
 C: Waterfront Bouncer
 C: Watery Grave
 C: Weatherseed Totem
+C: Wee Dragonauts
+C: Welkin Tern
 C: Whispersilk Cloak
 C: White Knight
 R: Wildfire
 C: Wild Mongrel
+C: Willbender
 C: Windswept Heath
 C: Wipe Away
 C: Withered Wretch
@@ -461,6 +563,10 @@ U: Woodfall Primus
 U: Word of Seizing
 U: World Queller
 C: Wrecking Ball
+C: Wretched Anurid
+C: Yavimaya Dryad
+C: Yavimaya Elder
+C: Yavimaya Granger
 C: Yixlid Jailer
 U: Yosei, the Morning Star
 C: Zombify
