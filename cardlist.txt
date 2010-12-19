@@ -24,7 +24,7 @@ R: Austere Command
 U: Avatar of Woe
 C: Azorius Chancery
 C: Azorius Guildmage
-C: Azorius Signet
+U: Azorius Signet
 C: Balefire Liege
 C: Ballynock Cohort
 U: Barter in Blood
@@ -47,7 +47,7 @@ C: Boggart Ram-Gang
 R: Boom // Bust
 C: Boros Fury-Shield
 C: Boros Garrison
-C: Boros Signet
+U: Boros Signet
 U: Bosh, Iron Golem
 U: Braid of Fire
 C: Breath of Life
@@ -60,7 +60,6 @@ C: Call of the Herd
 C: Call the Skybreaker
 C: Cancel
 C: Carnage Altar
-C: Cascade Bluffs
 R: Cataclysm
 R: Chandra Nalaar
 R: Channel
@@ -102,7 +101,7 @@ U: Demonic Tutor
 C: Devouring Light
 C: Dimir Doppelganger
 C: Dimir Guildmage
-C: Dimir Signet
+U: Dimir Signet
 C: Din of the Fireherd
 C: Discombobulate
 C: Disenchant
@@ -137,7 +136,6 @@ C: Fabricate
 C: Faerie Macabre
 C: Faerie Trickery
 C: Faith's Fetters
-C: Fetid Heath
 C: Fireball
 C: Fire-Lit Thicket
 C: Fires of Yavimaya
@@ -178,7 +176,7 @@ C: Goblin Guide
 C: Godhead of Awe
 C: Godless Shrine
 C: Golgari Grave-Troll
-C: Golgari Signet
+U: Golgari Signet
 C: Golgari Thug
 U: Govern the Guildless
 C: Grand Arbiter Augustin IV
@@ -187,7 +185,7 @@ U: Grave Pact
 C: Grave-Shell Scarab
 C: Grim Poppet
 C: Grinning Totem
-C: Gruul Signet
+U: Gruul Signet
 C: Gruul Turf
 C: Gruul War Plow
 R: Hallowed Burial
@@ -214,7 +212,7 @@ R: Insurrection
 U: Intet, the Dreamer
 C: Into the Roil
 C: Izzet Chronarch
-C: Izzet Signet
+U: Izzet Signet
 C: Jinxed Choker
 R: Jokulhaups
 C: Journey to Nowhere
@@ -236,6 +234,7 @@ C: Lavaborn Muse
 C: Leechridden Swamp
 C: Leyline of the Meek
 C: Lightning Bolt
+R: Lightning Greaves
 C: Lightning Helix
 R: Liliana Vess
 C: Loxodon Warhammer
@@ -287,7 +286,7 @@ C: Oran-Rief, the Vastwood
 C: Orim's Thunder
 U: Oros, the Avenger
 C: Orzhov Pontiff
-C: Orzhov Signet
+U: Orzhov Signet
 C: Otherworldly Journey
 C: Outrider en-Kor
 C: Overgrown Tomb
@@ -320,7 +319,7 @@ C: Quest for Pure Flame
 C: Quest for the Gravelord
 C: Quicksand
 C: Rakdos Guildmage
-C: Rakdos Signet
+U: Rakdos Signet
 U: Rampaging Baloths
 C: Rampant Growth
 C: Rancor
@@ -359,7 +358,7 @@ C: Scourge of Kher Ridges
 C: Scute Mob
 C: Scuttlemutt
 C: Selesnya Guildmage
-C: Selesnya Signet
+U: Selesnya Signet
 C: Sengir Nosferatu
 C: Serendib Efreet
 C: Serra Angel
@@ -368,7 +367,7 @@ C: Shivan Reef
 C: Silent Specter
 C: Silhana Ledgewalker
 C: Simic Growth Chamber
-C: Simic Signet
+U: Simic Signet
 C: Simic Sky Swallower
 C: Sisters of Stone Death
 C: Skeletal Vampire
@@ -380,7 +379,7 @@ C: Soul Warden
 C: Spellbound Dragon
 C: Sphinx of Jwar Isle
 C: Spitting Image
-U: Squee, Goblin Nabob
+R: Squee, Goblin Nabob
 C: Steam Vents
 C: Stomping Ground
 C: Stonecloaker
@@ -430,7 +429,6 @@ R: Upheaval
 C: Urborg Syphon-Mage
 C: Vampire Hexmage
 C: Vampire Nighthawk
-C: Venser's Diffusion
 C: Verdant Catacombs
 C: Verdant Force
 C: Verdeloth the Ancient
