@@ -262,6 +262,7 @@ C: Into the Roil
 C: Izzet Chronarch
 U: Izzet Signet
 C: Izzet Guildmage
+R: Jace Belerin
 C: Jackal Pup
 U: Jinxed Idol
 R: Jokulhaups
