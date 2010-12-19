@@ -17,7 +17,9 @@ C: Ana Battlemage
 C: Ancient Grudge
 U: Ant Queen
 U: Arashi, the Sky Asunder
+U: Arc Slogger
 C: Arid Mesa
+C: Armillary Sphere
 C: Ashenmoor Gouger
 U: Ashling the Pilgrim
 C: Assault // Battery
@@ -30,10 +32,13 @@ C: Azorius Chancery
 C: Azorius Guildmage
 U: Azorius Signet
 C: Balefire Liege
+U: Ball Lightning
 C: Ballynock Cohort
 U: Barter in Blood
+R: Basilisk Collar
 C: Battlefield Forge
 U: Beacon of Unrest
+U: Bear Umbra
 C: Beastbreaker of Bala Ged
 U: Beastmaster Ascension
 U: Beseech the Queen
@@ -46,7 +51,7 @@ C: Blazing Blade Askari
 C: Blind Hunter
 C: Blinkmoth Nexus
 C: Bloodbraid Elf
-C: Blood Crypt
+U: Blood Crypt
 U: Bloodghast
 C: Blood Knight
 C: Bloodstained Mire
@@ -62,7 +67,7 @@ U: Boros Signet
 U: Bosh, Iron Golem
 U: Braid of Fire
 C: Breath of Life
-C: Breeding Pool
+U: Breeding Pool
 C: Briarhorn
 C: Burning-Tree Shaman
 C: Burst Lightning
@@ -147,24 +152,29 @@ C: Elephant Guide
 C: Elite Vanguard
 C: Ember Hauler
 C: Enslave
+R: Eteched Oracle
 C: Eternal Dragon
 C: Eternal Witness
 C: Eternity Vessel
 R: Evacuation
+U: Everflowing Chalice
 C: Evolution Charm
 C: Expedition Map
 U: Experiment Kraj
 C: Explorer's Scope
+U: Exsanguinate
 C: Fabricate
 C: Faerie Macabre
 C: Faerie Trickery
 C: Faith's Fetters
 C: Fathom Seer
+U: Figure of Destiny
 U: Fireball
 C: Fire Imp
 C: Fires of Yavimaya
 U: Firespout
 C: Flame Javelin
+C: Flame Slash
 C: Flametongue Kavu
 C: Fleshwrither
 U: Flickerform
@@ -206,14 +216,16 @@ C: Goblin Guide
 C: Goblin Legionnaire
 C: Goblin Ringleader
 C: Goblin Ruinblaster
+U: Goblin Sharpshooter
 C: Godhead of Awe
-C: Godless Shrine
+U: Godless Shrine
 C: Golgari Grave-Troll
 U: Golgari Signet
 C: Golgari Guildmage
 C: Golgari Thug
 U: Govern the Guildless
 C: Grand Arbiter Augustin IV
+C: Grasp of Darkness
 U: Grave Pact
 C: Grave-Shell Scarab
 C: Grim Poppet
@@ -221,7 +233,7 @@ C: Grinning Totem
 U: Gruul Signet
 C: Gruul War Plow
 R: Hallowed Burial
-C: Hallowed Fountain
+U: Hallowed Fountain
 C: Harmonize
 C: Harrow
 C: Hateflayer
@@ -230,6 +242,7 @@ C: Heartwood Storyteller
 C: Hedge Troll
 C: Hellhole Rats
 C: Hellkite Charger
+C: Hellspark Elemental
 C: Hibernation's End
 C: Hinder
 C: Hit // Run
@@ -250,7 +263,6 @@ C: Izzet Chronarch
 U: Izzet Signet
 C: Izzet Guildmage
 C: Jackal Pup
-C: Jhessian Infiltrator
 C: Jinxed Choker
 R: Jokulhaups
 C: Journey to Nowhere
@@ -298,6 +310,7 @@ C: Marrow Chomper
 C: Marsh Flats
 R: Martial Coup
 U: Master Warcraft
+U: Masticore
 U: Meloku the Clouded Mirror
 C: Memnite
 C: Memory Lapse
@@ -307,6 +320,7 @@ U: Mirri the Cursed
 C: Mistral Charger
 C: Misty Rainforest
 C: Mogg Fanatic
+C: Mogg Flunkies
 C: Mogg War Marshal
 C: Moldervine Cloak
 R: Molten Disaster
@@ -347,13 +361,13 @@ C: Orzhov Pontiff
 U: Orzhov Signet
 C: Otherworldly Journey
 C: Outrider en-Kor
-C: Overgrown Tomb
+U: Overgrown Tomb
 C: Overrun
 U: Pact of Negation
 C: Paladin en-Vec
 C: Parallax Tide
 C: Patagia Viper
-C: Pentavus
+R: Pentavus
 C: Phantom Wings
 C: Phyrexian Arena
 C: Pithing Needle
@@ -400,6 +414,8 @@ C: Relic of Progenitus
 C: Repulse
 U: Reveillark
 U: Reya Dawnbringer
+U: Rhox
+C: Rift Bolt
 C: Riptide Pilferer
 C: Rise // Fall
 C: Rise from the Grave
@@ -412,10 +428,9 @@ C: Rootbound Crag
 U: Rorix Bladewing
 R: Rout
 U: Rude Awakening
-C: Rugged Prairie
 C: Rumbling Slum
 C: Rushing River
-C: Sacred Foundry
+U: Sacred Foundry
 U: Sakashima the Impostor
 C: Sakura-Tribe Elder
 C: Samurai of the Pale Curtain
@@ -434,11 +449,11 @@ C: Sengir Autocrat
 C: Sengir Nosferatu
 U: Serendib Efreet
 C: Serendib Sorcerer
-C: Serendib Djinn
 C: Serra Angel
 C: Serrated Arrows
 C: Shambling Remains
 C: Shaper Parasite
+U: Shocker
 C: Shivan Reef
 C: Silent Specter
 C: Silhana Ledgewalker
@@ -464,11 +479,12 @@ C: Spectral Procession
 C: Spellbound Dragon
 C: Sphinx of Jwar Isle
 C: Spitting Image
+U: Sprout Swarm
 R: Squee, Goblin Nabob
-C: Steam Vents
+U: Steam Vents
 C: Steppe Lynx
 C: Stingscourger
-C: Stomping Ground
+U: Stomping Ground
 C: Stonecloaker
 C: Stoneforge Mystic
 C: Sudden Death
@@ -477,7 +493,6 @@ C: Sulfurous Springs
 C: Sundering Vitae
 C: Sunforger
 C: Sunhome Enforcer
-C: Sunken Ruins
 C: Sunpetal Grove
 C: Supply // Demand
 C: Suq'Ata Lancer
@@ -486,12 +501,12 @@ C: Sword of the Paruns
 C: Swords to Plowshares
 C: Syphon Mind
 C: Take Possession
+U: Tarmogoyf
 U: Taurean Mauler
 C: Telling Time
-C: Temple Garden
+U: Temple Garden
 C: Terramorphic Expanse
 U: Teysa, Orzhov Scion
-C: The Hive
 C: Thieves' Auction
 C: Thieving Magpie
 C: Thornscape Battlemage
@@ -516,6 +531,7 @@ C: Twilight Mire
 C: Twilight Shepherd
 C: Twincast
 C: Uktabi Orangutan
+U: Ulasht, the Hate Seed
 C: Umbral Mantle
 R: Upheaval
 C: Urborg Syphon-Mage
@@ -540,13 +556,14 @@ C: Wall of Frost
 C: Wall of Omens
 C: Wall of Roots
 C: Warmonger
+U: War Elemental
 C: War's Toll
 C: Watchwolf
 C: Waterfront Bouncer
-C: Watery Grave
+U: Watery Grave
+C: Wayfarer's Bauble
 C: Weatherseed Totem
 C: Wee Dragonauts
-C: Welkin Tern
 C: Whispersilk Cloak
 C: White Knight
 R: Wildfire
