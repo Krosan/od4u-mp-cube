@@ -363,6 +363,7 @@ C: Otherworldly Journey
 C: Outrider en-Kor
 U: Overgrown Tomb
 C: Overrun
+R: Oversold Cemetery
 U: Pact of Negation
 C: Paladin en-Vec
 C: Parallax Tide
@@ -511,6 +512,7 @@ C: Thieves' Auction
 C: Thieving Magpie
 C: Thornscape Battlemage
 C: Thornweald Archer
+C: Thrummingbird
 C: Tidings
 R: Time Spiral
 C: Time Stop
