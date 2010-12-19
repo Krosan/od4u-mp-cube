@@ -263,7 +263,7 @@ C: Izzet Chronarch
 U: Izzet Signet
 C: Izzet Guildmage
 C: Jackal Pup
-C: Jinxed Choker
+U: Jinxed Idol
 R: Jokulhaups
 C: Journey to Nowhere
 C: Juniper Order Ranger
