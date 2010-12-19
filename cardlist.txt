@@ -432,7 +432,7 @@ U: Selesnya Signet
 C: Selesnya Guildmage
 C: Sengir Autocrat
 C: Sengir Nosferatu
-C: Serendib Efreet
+U: Serendib Efreet
 C: Serendib Sorcerer
 C: Serendib Djinn
 C: Serra Angel
