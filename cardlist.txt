@@ -88,6 +88,7 @@ C: Chittering Rats
 C: Chromatic Star
 C: Chrome Mox
 C: Clone
+C: Cloud of Faeries
 C: Cloudstone Curio
 C: Coalition Relic
 C: Coat of Arms
@@ -188,6 +189,7 @@ C: Frontline Strategist
 C: Fungal Behemoth
 C: Furnace of Rath
 C: Fury Charm
+R: Gaea's Cradle
 C: Gargoyle Castle
 C: Garruk's Companion
 C: Garruk Wildspeaker
@@ -474,6 +476,7 @@ C: Skyknight Legionnaire
 C: Skyshroud Claim
 C: Sleep
 C: Smallpox
+C: Snap
 C: Somnomancer
 R: Sorin Markov
 C: Soul Warden
